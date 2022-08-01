@@ -8,6 +8,7 @@ public class Demo
 		System.out.println("Hello CJC Student");
 		System.out.println("Welcom");
 		System.out.println("Welcomm---1");
+		System.out.println("Welcomm---2");
 		
 	}
 	
